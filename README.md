@@ -195,3 +195,9 @@ Some possible improvements include:
 - Python
 - NumPy
 - Fast Fourier Transform (FFT)
+
+## Use of AI Tools
+
+Some parts of the implementation were developed with the help of AI-assisted tools (such as ChatGPT). These tools were mainly used to identify function names, assist with plotting, and help with CSV file formatting.
+
+The dataset design, signal generation logic, feature extraction, and experiment setup were implemented and understood by the author.
